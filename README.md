@@ -1,2 +1,1 @@
-# NewPrepCourse-Henry
-Este es un repositorio de prueba del Modulo 2 del prepcouse de henry
+Este eproyecto es una prueba de como crear un repositorio y clonarlo desde gib hub a mi escritorio local
